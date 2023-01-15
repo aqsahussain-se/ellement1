@@ -1,0 +1,96 @@
+#header{
+display: flex;
+    position: absolute;
+top: 30px;
+left: 25px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+border-radius: 75px;
+height: 75px;
+width: 1150px;
+align-items: center;
+}
+
+#logo{
+/* position: absolute;
+top: 7.5px;
+left: 20px; */
+padding-left: 20px;
+}
+
+#Ellement{
+/* position: absolute;
+top: 7.5px;
+left: 55px; */
+font-family: "Louize"; src: url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.eot"); src: url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.woff") format("woff"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.svg#Louize") format("svg");
+font-size: 37.5px;
+color: midnightblue;
+}
+
+#headerlinks{
+/* position: absolute;
+right: 20px; */
+margin-left: auto;
+margin-right: 20px;
+font-family: 'Inter', sans-serif;
+font-weight: bold;
+font-size: smaller;
+color: midnightblue;
+}
+
+#screen1{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+height: 100vh;
+align-items: stretch;
+}
+
+#screen1left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+background-color: rgb(218, 203, 190);
+width: 50%;
+padding-left: 2.4rem;
+padding-right: 2.4rem;
+}
+
+#pp{
+font-family: 'Inter';
+text-decoration: underline;
+text-decoration-color: white;
+
+
+}
+
+#months{
+    font-family: "Louize"; src: url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.eot"); src: url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.woff") format("woff"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/df180f85d58e18017bf4cfa28468be6b.svg#Louize") format("svg");
+font-size:65px;
+}
+
+#supplements{
+    font-family: "Louize"; 
+  font-size: 30px;
+}
+
+#TryButton{
+    background-image: linear-gradient(to right, rgb(183,253,245) , rgb(195,250,189));
+width: 100px;
+border-radius: 50px;
+text-align: center;
+font-family: Inter;
+color: rgb(26, 25, 187);
+font-size: small;
+padding: 18px;
+}
+
+
+#screen1right{
+background-image: url(https://www.helloellement.com/static/hero-image-8d2b3b43ba4f07a9c5ea0d1fbf6456da.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+width: 50%;
+border: solid black;
+}
